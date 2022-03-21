@@ -1,3 +1,5 @@
+'use strict';
+
 let operand1 = prompt('Enter first operand:');
 
 let operand2 = prompt('Enter second operand:');
